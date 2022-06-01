@@ -38,3 +38,8 @@ Cinco amigas (Ana, Jéssica, Joana, Pati, Renata) estão sentadas uma ao lado da
 * A garota que gosta de suco de Morango tem Pássaros como animal de estimação.
 * A menina que gosta de Biologia senta ao lado da que gosta de Português.
 * Jéssica viajará para Salvador nas férias.
+
+## Referências Consultadas
+Do material de apoio:
+* [Olimpíada Brasileira de Informática](https://olimpiada.ic.unicamp.br/passadas/)
+* [Rachacuca](https://rachacuca.com.br/logica/problemas/)
