@@ -13,6 +13,8 @@ Foram desenvolvidos materiais em slides, dois exemplos de problema lógico resol
 **Exemplo:**
 
 ### Exercício Proposto
+Use um programa de Prolog para resolver esse problema de lógica do site [Rachacuca](https://rachacuca.com.br/logica/problemas/amigas-na-escola/):
+
 Cinco amigas (Ana, Jéssica, Joana, Pati, Renata) estão sentadas uma ao lado da outra na escola. Cada uma delas prefere tomar um suco, quer viajar para uma cidade e tem uma matéria favorita. Além disso, possuem uma mochila de cor diferente e gostam de um animal cada uma. A partir das dicas, use um programa em Prolog para determinar: qual é a menina que tem gatos como animal de estimação?
 
 #### Dicas:
