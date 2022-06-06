@@ -10,7 +10,7 @@ Foram desenvolvidos materiais em slides, dois exemplos de problema lógico resol
 
 **Exemplo:** [Bicho Preguiça](https://github.com/elc117/t2-2022a-alice_e_ivan/blob/main/bicho%20pregui%C3%A7a.pl)
 
-**Exemplo:**
+**Exemplo:** [Cores_Andares](https://github.com/IvanMaidana/Exercicio_Prolog_Logica/blob/main/Exemplo_Logica)
 
 ### Exercício Proposto
 Use um programa de Prolog para resolver esse problema de lógica do site [Rachacuca](https://rachacuca.com.br/logica/problemas/amigas-na-escola/):
